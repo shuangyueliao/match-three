@@ -2,9 +2,9 @@
 
 ## Short description (CrazyGames / GameDistribution / itch.io)
 
-Swap adjacent gems to line up 3+. Match 4 for a striped gem that clears a
-row or column, match 5 for a rainbow bomb that wipes a whole color. Cascades
-multiply your score x1.2 per chain. Two modes, instant fun.
+Swap gems, line up 3+. Match 4 for a striped gem that clears a row or
+column, match 5 for a rainbow bomb that wipes a whole color. Cascades
+multiply your score x1.2 per chain!
 
 ## Details
 
